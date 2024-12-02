@@ -61,7 +61,11 @@ const index = () => {
           onChangeText={newText => setText(newText)}
           value={'masukan password'}
         />
+<<<<<<< HEAD
          
+=======
+        
+>>>>>>> 808c737f36cc95dd35e43041bfaaaed75cdd1a5b
       </View>
       <TouchableOpacity style={{
         width:100,
